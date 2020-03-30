@@ -8,6 +8,8 @@
 }
 
 body {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
 }
 
 header {
@@ -17,26 +19,71 @@ header {
   background: #ccc;
 }
 
-section {
-}
+#left666 {
+  margin: 0px 0px 0px 0px;
+  padding: 30px;
+  width: calc(100%/3);
+  color: #333;
+  background: grey;
+  float: left;
+  
 
-#left {
 }
-
 #middle {
+  margin: 0px 0px 0px 0px;
+  padding: 30px;
+  width: calc(100%/3);
+  color: black;
+  background: #ccc;
+  float: left;
+  
 }
 
 #right {
+  margin: 0px 0px 0px 0px;
+  padding: 30px;
+  width: calc(100%/3);
+  color: black;
+  background: grey;
+  float: right;
 }
 
 #full {
+  margin: 10px 0px 0px 0px;
+  padding: 10px;
+  width: 100%;
+  color: black;
+  background: rgb(235, 234, 234);
+  float: left;
+
 }
 
+
 #division {
+  margin: 10px 0px 0px 0px;
+  padding: 20px;
+  width: 100%;
+  color: black;
+  background: rgb(116, 116, 216);
+
+
 }
 
 aside {
+  margin: 10px 0px 0px 20px;
+  padding: 80px;
+  width: 25%;
+  color: black;
+  background: white;
+  float: left;
+
 }
 
 footer {
+  margin: 10px 0px 0px 0px;
+  padding: 40px;
+  width: 100%;
+  color: black;
+  background:rgb(202, 200, 200);
+  float: left;
 }
